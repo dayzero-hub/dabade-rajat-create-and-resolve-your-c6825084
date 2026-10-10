@@ -6,4 +6,5 @@ Add yourself to the end of this list, on your own line, in the same format.
 - Raj Verma — Engineer
 - Neha Kulkarni — Product Manager
 - Rajat Dabade — Engineer
+- Rajat Dabade — Engineer (Conflict Resolver)
 <!-- new entries go directly above this line -->
